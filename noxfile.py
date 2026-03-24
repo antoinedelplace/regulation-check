@@ -27,7 +27,8 @@ def tests(session):
     session.run(
         "pytest",
         "-vv",
-        "--cov=regulation_check",
+        "--cov=src",
+        "--cov=scripts",
         "--cov-report=term-missing",
         *session.posargs,
     )

@@ -26,6 +26,16 @@ dev = [
     "ruff",
     "pre-commit",
     "nox",
+    "pandas>=2.0",
+    "lxml>=5.0",
+    "beautifulsoup4>=4.12",
+]
+
+# Optional: regenerate rules/*.json from EUR-Lex (see scripts/ and README).
+extract = [
+    "pandas>=2.0",
+    "lxml>=5.0",
+    "beautifulsoup4>=4.12",
 ]
 
 # --------------------------------------------------
@@ -51,6 +61,7 @@ addopts = [
     "--strict-markers",
     "--disable-warnings",
     "--cov=src",
+    "--cov=scripts",
     "--cov-report=term-missing",
     "--cov-report=html",
 ]
@@ -60,7 +71,8 @@ testpaths = [
 ]
 
 pythonpath = [
-    "src"
+    "src",
+    "scripts",
 ]
 
 # --------------------------------------------------
@@ -72,7 +84,8 @@ pythonpath = [
 branch = true
 
 source = [
-    "src"
+    "src",
+    "scripts",
 ]
 
 omit = [
@@ -103,7 +116,8 @@ line-length = 88
 
 src = [
     "src",
-    "tests"
+    "tests",
+    "scripts",
 ]
 
 exclude = [

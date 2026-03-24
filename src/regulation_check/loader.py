@@ -21,7 +21,7 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
-from regulation_check.models import build_rules
+from regulation_check.models import Rule, build_rules
 
 logger = logging.getLogger(__name__)
 
@@ -34,8 +34,8 @@ RULES_DIR = Path("rules")
 PROHIBITED_FILE = "prohibited_substances.json"
 RESTRICTED_FILE = "restricted_substances.json"
 
-# Simple in-memory cache
-_RULE_CACHE: dict[str, tuple[list[dict], list[dict]]] = {}
+# Simple in-memory cache (accumulated rules up to each selected version)
+_RULE_CACHE: dict[str, tuple[list[Rule], list[Rule]]] = {}
 
 
 # --------------------------------------------------
@@ -146,32 +146,35 @@ def load_json_file(file_path: Path) -> list[dict]:
 # --------------------------------------------------
 
 
-def load_rules_for_version(version: str) -> tuple[list[dict], list[dict]]:
+def load_rules_for_version(version: str) -> tuple[list[Rule], list[Rule]]:
     """
-    Load rule files for a specific version.
-    """
+    Load rule files accumulated up to and including ``version``.
 
-    # Check cache first
+    Later dated directories may contain amendment slices only; those rows are
+    appended to all prior versions' lists in chronological order.
+    """
 
     if version in _RULE_CACHE:
         logger.debug("Using cached rules for version %s", version)
 
         return _RULE_CACHE[version]
 
-    version_path = RULES_DIR / version
+    cutoff = parse_date(version)
+    merged_prohibited: list[dict] = []
+    merged_restricted: list[dict] = []
 
-    prohibited_path = version_path / PROHIBITED_FILE
+    for v in get_available_versions():
+        if parse_date(v) > cutoff:
+            break
 
-    restricted_path = version_path / RESTRICTED_FILE
+        version_path = RULES_DIR / v
+        merged_prohibited.extend(load_json_file(version_path / PROHIBITED_FILE))
+        merged_restricted.extend(load_json_file(version_path / RESTRICTED_FILE))
 
-    logger.info("Loading rules for version %s", version)
+    logger.info("Loading rules accumulated for version %s", version)
 
-    prohibited_rules = load_json_file(prohibited_path)
-
-    restricted_rules = load_json_file(restricted_path)
-
-    prohibited_rules = build_rules(prohibited_rules)
-    restricted_rules = build_rules(restricted_rules)
+    prohibited_rules = build_rules(merged_prohibited)
+    restricted_rules = build_rules(merged_restricted)
 
     _RULE_CACHE[version] = (prohibited_rules, restricted_rules)
 
@@ -183,7 +186,7 @@ def load_rules_for_version(version: str) -> tuple[list[dict], list[dict]]:
 # --------------------------------------------------
 
 
-def load_rules_for_date(evaluation_date: str) -> tuple[list[dict], list[dict]]:
+def load_rules_for_date(evaluation_date: str) -> tuple[list[Rule], list[Rule]]:
     """
     Main loader entry point.
 

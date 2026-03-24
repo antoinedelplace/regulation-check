@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a deterministic rule engine built from the **EU Cosmetics Regulation (EC) No 1223/2009**.
+This project demonstrates a deterministic rule engine built from the [**EU Cosmetics Regulation (EC) No 1223/2009**](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_II).
 
 The goal is to transform regulatory text into structured, machine-readable rules that automatically determine whether a cosmetic ingredient is compliant under specific conditions.
 
@@ -60,11 +60,8 @@ This repository focuses on correctness, transparency, and regulatory reasoning r
     "Maximum concentration: 6%"
   ],
   "regulatory_reference": {
-    "regulation": "EC 1223/2009",
     "annex": "Annex III",
-    "entry": "12",
-    "cas_number": "7722-84-1",
-    "effective_date": "2025-09-01"
+    "entry": "12"
   }
 }
 ```
@@ -195,6 +192,8 @@ This prototype demonstrates regulatory reasoning using a limited subset of the r
 * Product-type conditions
 * Deterministic compliance evaluation
 
+The **`rules/2025-09-01/`** snapshot is aligned with the consolidated text [**CELEX:02009R1223-20250901**](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_II): **Annex II** and **Annex III** are populated from that source (see [Regenerating rules from EUR-Lex](#regenerating-rules-from-eur-lex)). Other `rules/<date>/` folders may contain smaller illustrative subsets.
+
 ---
 
 ### Out of Scope
@@ -253,13 +252,17 @@ regulation-check/
 │       ├── prohibited_substances.json
 │       └── restricted_substances.json
 │
+├── scripts/
+│   ├── parse_annex_ii_from_eurlex_txt.py   # Annex II → prohibited_substances.json
+│   └── parse_annex_iii_from_eurlex_html.py  # Annex III → restricted_substances.json
+│
 ├── src/
 │   └── regulation_check/
-│   │   ├── main.py
-│   │   ├── rule_engine.py
-│   │   ├── loader.py
-│   │   ├── models.py
-│   │   └── evaluator.py
+│       ├── main.py
+│       ├── rule_engine.py
+│       ├── loader.py
+│       ├── models.py
+│       └── evaluator.py
 │
 ├── tests/
 │   ├── test_evaluator.py
@@ -268,7 +271,7 @@ regulation-check/
 │   └── test_rule_engine.py
 │
 ├── data/
-│   └── sample_inputs.json
+│   └── sample_input.json
 │
 ├── pyproject.toml
 ├── noxfile.py
@@ -299,9 +302,15 @@ uv sync --group dev
 
 This installs:
 
-* runtime dependencies
+* runtime dependencies (the `regulation_check` package has zero runtime third-party dependencies)
 * development tools
 * testing tools
+
+To regenerate rule JSON from EUR-Lex (optional), also install the **extract** group:
+
+```bash
+uv sync --group dev --group extract
+```
 
 ---
 
@@ -344,20 +353,19 @@ Rules are stored in structured JSON.
 
 ```json
 {
-  "ingredient": "Hydrogen Peroxide",
-  "allowed": true,
+  "ingredient": "hydrogen peroxide",
   "max_concentration_percent": 6,
   "product_types": [
     "Hair products"
   ],
   "regulatory_reference": {
-    "regulation": "EC 1223/2009",
     "annex": "Annex III",
-    "entry": "12",
-    "cas_number": "7722-84-1"
+    "entry": "12"
   }
 }
 ```
+
+(Ingredient names are normalized to lowercase for matching; source JSON may use any casing.)
 
 ---
 
@@ -365,17 +373,17 @@ Rules are stored in structured JSON.
 
 ```json
 {
-  "ingredient": "Acetone Oxime",
-  "allowed": false,
-  "status": "Prohibited",
+  "ingredient": "acetone oxime",
+  "placed_on_market_until": "2026-07-31",
+  "available_until": "2028-07-31",
   "regulatory_reference": {
-    "regulation": "EC 1223/2009",
     "annex": "Annex II",
-    "entry": "1754",
-    "effective_date": "2026-05-01"
+    "entry": "1754"
   }
 }
 ```
+
+Optional transitional fields apply only when an amendment sets a phase-out period.
 
 ---
 
@@ -399,6 +407,14 @@ All decisions are deterministic.
 ## Development Workflow
 
 ### Run tests
+
+Use Nox so the same pytest options as CI are applied (including coverage for `src/` and `scripts/`):
+
+```bash
+uv run nox -s tests
+```
+
+For a quick run without Nox:
 
 ```bash
 uv run pytest
@@ -424,8 +440,16 @@ uv run ruff format .
 
 ### Run all automation
 
+Lint and tests (same as the `ci` session):
+
 ```bash
 uv run nox
+```
+
+Or explicitly:
+
+```bash
+uv run nox -s ci
 ```
 
 ---
@@ -485,16 +509,45 @@ Regulation updates are handled through a structured ingestion workflow.
 
 ---
 
+## Regenerating rules from EUR-Lex
+
+Scripts under `scripts/` rebuild **Annex II** (prohibited) and **Annex III** (restricted) JSON from the **consolidated** Regulation EC 1223/2009 as published on EUR-Lex. Install the **extract** dependency group first (`uv sync --group extract`).
+
+### Annex II — `prohibited_substances.json`
+
+The parser expects a **plain-text** line dump of the HTML page (for example, save the EUR-Lex “Web” view to a `.txt` file, or use the same structure as the [Annex II anchor](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_II) content).
+
+```bash
+python scripts/parse_annex_ii_from_eurlex_txt.py path/to/eurlex_annex_ii.txt rules/2025-09-01/prohibited_substances.json
+```
+
+### Annex III — `restricted_substances.json`
+
+Parses the HTML table directly (uses `pandas.read_html`).
+
+```bash
+python scripts/parse_annex_iii_from_eurlex_html.py rules/2025-09-01/restricted_substances.json
+```
+
+Optional: `--url` to point at another consolidated URI (default: `CELEX:02009R1223-20250901`).
+
+**Notes:**
+
+* Matching in the engine is **exact** on normalized ingredient strings; long Annex III product-type labels are stored as in the regulation.
+* Rows with only qualitative conditions may use `"max_concentration_percent": null`.
+* Amendment-only rows in the HTML are filtered out where possible.
+
+---
+
 ## Limitations
 
 This prototype intentionally limits scope.
 
 Current simplifications:
 
-* Partial annex coverage
-* Simplified concentration rules
-* Limited product categories
-* Manual rule validation
+* Annex IV–VI are not loaded by the default rule files (only II and III in `rules/<version>/`).
+* Ingredient matching is exact (no fuzzy or synonym resolution).
+* Extracted Annex III rows may still need manual review for edge cases.
 * No automated regulatory monitoring
 
 ---

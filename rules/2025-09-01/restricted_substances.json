@@ -1,13 +1,6254 @@
 [
-    {
-      "ingredient": "Hydrogen Peroxide",
-      "max_concentration_percent": 6,
-      "product_types": [
-        "Hair product"
-      ],
-      "regulatory_reference": {
-        "annex": "Annex III",
-        "entry": "12"
-      }
+  {
+    "ingredient": "Thioglycolic acid",
+    "max_concentration_percent": 8.0,
+    "product_types": [
+      "(a) Hair waving or straightening products — General use ready for use pH 7 to 9,5"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2a"
     }
-  ]
+  },
+  {
+    "ingredient": "Thioglycolic acid",
+    "max_concentration_percent": 11.0,
+    "product_types": [
+      "(a) Hair waving or straightening products — Professional use ready for use pH 7 to 9,5"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2a"
+    }
+  },
+  {
+    "ingredient": "Thioglycolic acid",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "(b) Depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2a"
+    }
+  },
+  {
+    "ingredient": "Thioglycolic acid",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(c) Other hair rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2a"
+    }
+  },
+  {
+    "ingredient": "Thioglycolic acid",
+    "max_concentration_percent": 11.0,
+    "product_types": [
+      "(d) Products intended for eyelash waving"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2a"
+    }
+  },
+  {
+    "ingredient": "Thioglycolic acid esters",
+    "max_concentration_percent": 8.0,
+    "product_types": [
+      "Hair waving or straightening products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2b"
+    }
+  },
+  {
+    "ingredient": "Thioglycolic acid esters",
+    "max_concentration_percent": 11.0,
+    "product_types": [
+      "Hair waving or straightening products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "2b"
+    }
+  },
+  {
+    "ingredient": "Oxalic acid",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "Hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "3"
+    }
+  },
+  {
+    "ingredient": "Ammonia",
+    "max_concentration_percent": 6.0,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "4"
+    }
+  },
+  {
+    "ingredient": "Chloramine-T",
+    "max_concentration_percent": 0.2,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "5"
+    }
+  },
+  {
+    "ingredient": "Sodium chlorate",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "(a) Toothpaste (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "6"
+    }
+  },
+  {
+    "ingredient": "Sodium chlorate",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(a) Toothpaste (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "6"
+    }
+  },
+  {
+    "ingredient": "N-substituted derivatives of p-Phenylenediamine and their salts; N-substituted derivatives of o-Phenylenediamine (1), with exception of those derivatives listed elsewhere in this Annex and under reference numbers 1309, 1311, and 1312 in Annex II",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8"
+    }
+  },
+  {
+    "ingredient": "N-substituted derivatives of p-Phenylenediamine and their salts; N-substituted derivatives of o-Phenylenediamine (1), with exception of those derivatives listed elsewhere in this Annex and under reference numbers 1309, 1311, and 1312 in Annex II",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8"
+    }
+  },
+  {
+    "ingredient": "p-Phenylenediamine; p-Phenylenediamine HCl; p-Phenylenediamine Sulphate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8a"
+    }
+  },
+  {
+    "ingredient": "p-Phenylenediamine; p-Phenylenediamine HCl; p-Phenylenediamine Sulphate",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8a"
+    }
+  },
+  {
+    "ingredient": "p-Phenylenediamine; p-Phenylenediamine HCl; p-Phenylenediamine Sulphate",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8b"
+    }
+  },
+  {
+    "ingredient": "N,N′-Bis(2-Hydroxyethyl)-2-Nitro-p-Phenylenediamine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8c"
+    }
+  },
+  {
+    "ingredient": "N,N′-Bis(2-Hydroxyethyl)-2-Nitro-p-Phenylenediamine",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "8c"
+    }
+  },
+  {
+    "ingredient": "Methylphenylenediamines, their N- substituted derivatives and their salts (1), with the exception of the substance listed under reference numbers 9 a and 9 b of this Annex and the substances listed under reference numbers 364, 413, 1144, 1310, 1313 and 1507 of Annex II",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9"
+    }
+  },
+  {
+    "ingredient": "Methylphenylenediamines, their N- substituted derivatives and their salts (1), with the exception of the substance listed under reference numbers 9 a and 9 b of this Annex and the substances listed under reference numbers 364, 413, 1144, 1310, 1313 and 1507 of Annex II",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9"
+    }
+  },
+  {
+    "ingredient": "Toluene-2,5-Diamine Toluene-2,5-Diamine Sulfate (1)",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9a"
+    }
+  },
+  {
+    "ingredient": "Toluene-2,5-Diamine Toluene-2,5-Diamine Sulfate (1)",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9a"
+    }
+  },
+  {
+    "ingredient": "Toluene-2,5-Diamine Toluene-2,5-Diamine Sulfate (1)",
+    "max_concentration_percent": 3.6,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9a"
+    }
+  },
+  {
+    "ingredient": "2,6-Dihydroxyethylaminotoluene",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "9b"
+    }
+  },
+  {
+    "ingredient": "Dichlorophen",
+    "max_concentration_percent": 0.5,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "11"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 12.0,
+    "product_types": [
+      "(a) Hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 4.0,
+    "product_types": [
+      "(b) Skin products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(c) Nail hardening products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(d) Oral products, including mouth rinse, tooth paste and tooth whitening or bleaching products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(e) Tooth whitening or bleaching products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 6.0,
+    "product_types": [
+      "(e) Tooth whitening or bleaching products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydrogen peroxide",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(f) Products intended for eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "12"
+    }
+  },
+  {
+    "ingredient": "Hydroquinone",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "Artificial nail systems"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "14"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide/sodium hydroxide",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "(a) Nail cuticle solvent"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15a"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide/sodium hydroxide",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Hair straightener"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15a"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide/sodium hydroxide",
+    "max_concentration_percent": 4.5,
+    "product_types": [
+      "(b) Hair straightener"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15a"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide/sodium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(c) pH adjuster for depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15a"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide/sodium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(d) Other uses as pH adjuster"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15a"
+    }
+  },
+  {
+    "ingredient": "Lithium hydroxide",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair straighteners"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15b"
+    }
+  },
+  {
+    "ingredient": "Lithium hydroxide",
+    "max_concentration_percent": 4.5,
+    "product_types": [
+      "(a) Hair straighteners"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15b"
+    }
+  },
+  {
+    "ingredient": "Lithium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) pH adjuster for depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15b"
+    }
+  },
+  {
+    "ingredient": "Lithium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(c) Other uses as pH adjuster (for rinse-off products only)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15b"
+    }
+  },
+  {
+    "ingredient": "Calcium hydroxide",
+    "max_concentration_percent": 7.0,
+    "product_types": [
+      "(a) Hair straighteners containing two components: calcium hydroxide and a guanidine salt"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15c"
+    }
+  },
+  {
+    "ingredient": "Calcium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) pH adjuster for depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15c"
+    }
+  },
+  {
+    "ingredient": "Calcium hydroxide",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(c) Other uses (e.g. pH adjuster, processing aid)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15c"
+    }
+  },
+  {
+    "ingredient": "Potassium hydroxide",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Callosity softener/remover"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "15d"
+    }
+  },
+  {
+    "ingredient": "1-Naphthol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "16"
+    }
+  },
+  {
+    "ingredient": "Sodium nitrite",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "Rust inhibitor"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "17"
+    }
+  },
+  {
+    "ingredient": "Nitromethane",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "Rust inhibitor"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "18"
+    }
+  },
+  {
+    "ingredient": "Moved or deleted",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Moved or deleted"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "19"
+    }
+  },
+  {
+    "ingredient": "Moved or deleted",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Moved or deleted"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "20"
+    }
+  },
+  {
+    "ingredient": "Quinine",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Hair rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "21"
+    }
+  },
+  {
+    "ingredient": "Quinine",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(b) Hair leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "21"
+    }
+  },
+  {
+    "ingredient": "(a) Alkali sulphides",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "23"
+    }
+  },
+  {
+    "ingredient": "(b) Alkaline earth sulphides",
+    "max_concentration_percent": 6.0,
+    "product_types": [
+      "(b) Depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "23"
+    }
+  },
+  {
+    "ingredient": "Zinc acetate, zinc chloride, zinc gluconate, zinc glutamate",
+    "max_concentration_percent": 1.0,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "24"
+    }
+  },
+  {
+    "ingredient": "Zinc phenolsulfonate",
+    "max_concentration_percent": 6.0,
+    "product_types": [
+      "Deodorants, antiperspirants and astringent lotions"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "25"
+    }
+  },
+  {
+    "ingredient": "Ammonium Monofluorophosphate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "26"
+    }
+  },
+  {
+    "ingredient": "Sodium Monofluorophosphate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "27"
+    }
+  },
+  {
+    "ingredient": "Potassium Monofluorophosphate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "28"
+    }
+  },
+  {
+    "ingredient": "Calcium Monofluorophosphate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "29"
+    }
+  },
+  {
+    "ingredient": "Calcium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "30"
+    }
+  },
+  {
+    "ingredient": "Sodium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "31"
+    }
+  },
+  {
+    "ingredient": "Potassium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "32"
+    }
+  },
+  {
+    "ingredient": "Ammonium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "33"
+    }
+  },
+  {
+    "ingredient": "Aluminum Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "34"
+    }
+  },
+  {
+    "ingredient": "Stannous Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "35"
+    }
+  },
+  {
+    "ingredient": "Cetylamine Hydrofluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "36"
+    }
+  },
+  {
+    "ingredient": "—",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "37"
+    }
+  },
+  {
+    "ingredient": "—",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "38"
+    }
+  },
+  {
+    "ingredient": "Octadecenyl-Ammonium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "39"
+    }
+  },
+  {
+    "ingredient": "Sodium Fluorosilicate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "40"
+    }
+  },
+  {
+    "ingredient": "Potassium Fluorosilicate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "41"
+    }
+  },
+  {
+    "ingredient": "Ammonium Fluorosilicate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "42"
+    }
+  },
+  {
+    "ingredient": "Magnesium Fluorosilicate",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "43"
+    }
+  },
+  {
+    "ingredient": "Dimethylol ethylene thiourea",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair- products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "44"
+    }
+  },
+  {
+    "ingredient": "Dimethylol ethylene thiourea",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Nail- products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "44"
+    }
+  },
+  {
+    "ingredient": "Benzyl Alcohol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "45"
+    }
+  },
+  {
+    "ingredient": "Benzyl Alcohol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "45"
+    }
+  },
+  {
+    "ingredient": "6-Methyl Coumarin",
+    "max_concentration_percent": 0.003,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "46"
+    }
+  },
+  {
+    "ingredient": "Nicomethanol Hydrofluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "47"
+    }
+  },
+  {
+    "ingredient": "Silver nitrate",
+    "max_concentration_percent": 4.0,
+    "product_types": [
+      "Only for colouring eyelashes and eyebrows"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "48"
+    }
+  },
+  {
+    "ingredient": "Selenium disulphide",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Antidandruff shampoos"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "49"
+    }
+  },
+  {
+    "ingredient": "Aluminium zirconium chloride hydroxide complexes AlxZr(OH)yClz and the aluminium zirconium chloride hydroxide glycine complexes",
+    "max_concentration_percent": 20.0,
+    "product_types": [
+      "Anti-perspirants"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "50"
+    }
+  },
+  {
+    "ingredient": "Aluminium zirconium chloride hydroxide complexes AlxZr(OH)yClz and the aluminium zirconium chloride hydroxide glycine complexes",
+    "max_concentration_percent": 5.4,
+    "product_types": [
+      "Anti-perspirants"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "50"
+    }
+  },
+  {
+    "ingredient": "Oxyqui-noline sulphate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Stabilizer for hydrogen peroxidein rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "51"
+    }
+  },
+  {
+    "ingredient": "Oxyqui-noline sulphate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Stabilizer for hydrogen peroxide in leave-on hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "51"
+    }
+  },
+  {
+    "ingredient": "Methyl alcohol",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "Denaturant for ethanol and isopropyl alcohol"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "52"
+    }
+  },
+  {
+    "ingredient": "Etidronic acid",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair- product"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "53"
+    }
+  },
+  {
+    "ingredient": "Etidronic acid",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(b) Soap"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "53"
+    }
+  },
+  {
+    "ingredient": "Phenoxyisopropanol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Use only in rinse-off products Not to be used in oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "54"
+    }
+  },
+  {
+    "ingredient": "Moved or deleted",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Moved or deleted"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "55"
+    }
+  },
+  {
+    "ingredient": "Magnesium Fluoride",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "56"
+    }
+  },
+  {
+    "ingredient": "Strontium chloride",
+    "max_concentration_percent": 3.5,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "57"
+    }
+  },
+  {
+    "ingredient": "Strontium chloride",
+    "max_concentration_percent": 2.1,
+    "product_types": [
+      "(b) Shampoo and face products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "57"
+    }
+  },
+  {
+    "ingredient": "Strontium acetate",
+    "max_concentration_percent": 3.5,
+    "product_types": [
+      "Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "58"
+    }
+  },
+  {
+    "ingredient": "Talc",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Powdery products intended to be used for children under 3 years of age (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "59"
+    }
+  },
+  {
+    "ingredient": "Fatty acid dialkylamides and dialkanolamides",
+    "max_concentration_percent": 0.5,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "60"
+    }
+  },
+  {
+    "ingredient": "Monoalkylamines, monoalkanolamines and their salts",
+    "max_concentration_percent": 0.5,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "61"
+    }
+  },
+  {
+    "ingredient": "Trialkylamines, trialkanolamines and their salts",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(a) Leave-on products (b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "62"
+    }
+  },
+  {
+    "ingredient": "Strontium hydroxide",
+    "max_concentration_percent": 3.5,
+    "product_types": [
+      "pH adjuster for depilatories"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "63"
+    }
+  },
+  {
+    "ingredient": "Strontium peroxide",
+    "max_concentration_percent": 4.5,
+    "product_types": [
+      "Rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "64"
+    }
+  },
+  {
+    "ingredient": "Benzalkonium bromide",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "Rinse-off hair (head) products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "65"
+    }
+  },
+  {
+    "ingredient": "Polyacrylamides",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Body- leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "66"
+    }
+  },
+  {
+    "ingredient": "Polyacrylamides",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "66"
+    }
+  },
+  {
+    "ingredient": "Amyl cinnamal",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "67"
+    }
+  },
+  {
+    "ingredient": "Amyl cinnamal",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "67"
+    }
+  },
+  {
+    "ingredient": "Cinnamyl alcohol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "69"
+    }
+  },
+  {
+    "ingredient": "Cinnamyl alcohol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "69"
+    }
+  },
+  {
+    "ingredient": "Citral",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Citral",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Geranial",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Geranial",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Neral",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Neral",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "70"
+    }
+  },
+  {
+    "ingredient": "Eugenol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "71"
+    }
+  },
+  {
+    "ingredient": "Eugenol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "71"
+    }
+  },
+  {
+    "ingredient": "Hydroxycitronellal",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "72"
+    }
+  },
+  {
+    "ingredient": "Hydroxycitronellal",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "72"
+    }
+  },
+  {
+    "ingredient": "Hydroxycitronellal",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "72"
+    }
+  },
+  {
+    "ingredient": "Isoeugenol",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "73"
+    }
+  },
+  {
+    "ingredient": "Amylcinnamyl alcohol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "74"
+    }
+  },
+  {
+    "ingredient": "Amylcinnamyl alcohol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "74"
+    }
+  },
+  {
+    "ingredient": "Benzyl salicylate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "75"
+    }
+  },
+  {
+    "ingredient": "Benzyl salicylate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "75"
+    }
+  },
+  {
+    "ingredient": "Cinnamal",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "76"
+    }
+  },
+  {
+    "ingredient": "Cinnamal",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "76"
+    }
+  },
+  {
+    "ingredient": "Coumarin",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "77"
+    }
+  },
+  {
+    "ingredient": "Coumarin",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "77"
+    }
+  },
+  {
+    "ingredient": "Geraniol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "78"
+    }
+  },
+  {
+    "ingredient": "Geraniol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "78"
+    }
+  },
+  {
+    "ingredient": "Anise alcohol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "80"
+    }
+  },
+  {
+    "ingredient": "Anise alcohol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "80"
+    }
+  },
+  {
+    "ingredient": "Benzyl cinnamate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "81"
+    }
+  },
+  {
+    "ingredient": "Benzyl cinnamate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "81"
+    }
+  },
+  {
+    "ingredient": "Farnesol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "82"
+    }
+  },
+  {
+    "ingredient": "Farnesol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "82"
+    }
+  },
+  {
+    "ingredient": "Linalool",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "84"
+    }
+  },
+  {
+    "ingredient": "Linalool",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "84"
+    }
+  },
+  {
+    "ingredient": "Benzyl benzoate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "85"
+    }
+  },
+  {
+    "ingredient": "Benzyl benzoate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "85"
+    }
+  },
+  {
+    "ingredient": "Citronellol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "86"
+    }
+  },
+  {
+    "ingredient": "Citronellol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "86"
+    }
+  },
+  {
+    "ingredient": "Hexyl cinnamal",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "87"
+    }
+  },
+  {
+    "ingredient": "Hexyl cinnamal",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "87"
+    }
+  },
+  {
+    "ingredient": "Limonene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "88"
+    }
+  },
+  {
+    "ingredient": "Limonene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "88"
+    }
+  },
+  {
+    "ingredient": "Methyl 2-Octynoate",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "89"
+    }
+  },
+  {
+    "ingredient": "Methyl 2-Octynoate",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "89"
+    }
+  },
+  {
+    "ingredient": "Methyl 2-Octynoate",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "89"
+    }
+  },
+  {
+    "ingredient": "alpha-Isomethyl ionone",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "90"
+    }
+  },
+  {
+    "ingredient": "alpha-Isomethyl ionone",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "90"
+    }
+  },
+  {
+    "ingredient": "Evernia prunastri extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "91"
+    }
+  },
+  {
+    "ingredient": "Evernia prunastri extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "91"
+    }
+  },
+  {
+    "ingredient": "Evernia furfuracea extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "92"
+    }
+  },
+  {
+    "ingredient": "Evernia furfuracea extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "92"
+    }
+  },
+  {
+    "ingredient": "Diaminopyrimidine oxide",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "93"
+    }
+  },
+  {
+    "ingredient": "Benzoyl peroxide",
+    "max_concentration_percent": 0.7,
+    "product_types": [
+      "Artificial nail systems"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "94"
+    }
+  },
+  {
+    "ingredient": "p-Hydroxyanisol",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "Artificial nail systems"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "95"
+    }
+  },
+  {
+    "ingredient": "Musk xylene",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "96"
+    }
+  },
+  {
+    "ingredient": "Musk xylene",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "96"
+    }
+  },
+  {
+    "ingredient": "Musk xylene",
+    "max_concentration_percent": 0.03,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "96"
+    }
+  },
+  {
+    "ingredient": "Musk ketone",
+    "max_concentration_percent": 1.4,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "97"
+    }
+  },
+  {
+    "ingredient": "Musk ketone",
+    "max_concentration_percent": 0.56,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "97"
+    }
+  },
+  {
+    "ingredient": "Musk ketone",
+    "max_concentration_percent": 0.042,
+    "product_types": [
+      "All cosmetic products, with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "97"
+    }
+  },
+  {
+    "ingredient": "Salicylic acid",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(a) Rinse-off hair products (b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant (c) Body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "98"
+    }
+  },
+  {
+    "ingredient": "Salicylic acid",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Rinse-off hair products (b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant (c) Body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "98"
+    }
+  },
+  {
+    "ingredient": "Salicylic acid",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Rinse-off hair products (b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant (c) Body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "98"
+    }
+  },
+  {
+    "ingredient": "Inorganic sulfites and bisulfites (11)",
+    "max_concentration_percent": 0.67,
+    "product_types": [
+      "(a) Oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "99"
+    }
+  },
+  {
+    "ingredient": "Inorganic sulfites and bisulfites (11)",
+    "max_concentration_percent": 6.7,
+    "product_types": [
+      "(b) Hair straightening products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "99"
+    }
+  },
+  {
+    "ingredient": "Inorganic sulfites and bisulfites (11)",
+    "max_concentration_percent": 0.45,
+    "product_types": [
+      "(c) Self-tanning products for the face"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "99"
+    }
+  },
+  {
+    "ingredient": "Inorganic sulfites and bisulfites (11)",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "(d) Other self-tanning products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "99"
+    }
+  },
+  {
+    "ingredient": "Triclocarban",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "100"
+    }
+  },
+  {
+    "ingredient": "Methyl eugenol",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "Fine fragrance"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "102"
+    }
+  },
+  {
+    "ingredient": "Methyl eugenol",
+    "max_concentration_percent": 0.004,
+    "product_types": [
+      "Eau de toilette"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "102"
+    }
+  },
+  {
+    "ingredient": "Methyl eugenol",
+    "max_concentration_percent": 0.002,
+    "product_types": [
+      "Fragrance cream"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "102"
+    }
+  },
+  {
+    "ingredient": "Methyl eugenol",
+    "max_concentration_percent": 0.0002,
+    "product_types": [
+      "Other leave-on products and oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "102"
+    }
+  },
+  {
+    "ingredient": "Methyl eugenol",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "102"
+    }
+  },
+  {
+    "ingredient": "Abies Alba Cone Oil; Abies Alba Cone Extract; Abies Alba Leaf Oil; Abies Alba Leaf Cera; Abies Alba Needle Extract; Abies Alba Needle Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "103"
+    }
+  },
+  {
+    "ingredient": "Abies Pectinata Oil; Abies Pectinata Leaf Extract; Abies Pectinata Needle Extract Abies Pectinata Needle Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "105"
+    }
+  },
+  {
+    "ingredient": "Abies Sibirica Oil; Abies Sibirica Needle Extract Abies Sibirica Needle Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "106"
+    }
+  },
+  {
+    "ingredient": "Abies Balsamea Needle Oil; Abies Balsamea Needle Extract Abies Balsamea Resin; Abies Balsamea Extract Abies Balsamea Balsam Extract",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "107"
+    }
+  },
+  {
+    "ingredient": "Pinus Mugo Pumilio Twig Leaf Extract; Pinus Mugo Pumilio Twig Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "108"
+    }
+  },
+  {
+    "ingredient": "Pinus Mugo Leaf Oil; Pinus Mugo Twig Leaf Extract; Pinus Mugo Twig Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "109"
+    }
+  },
+  {
+    "ingredient": "Pinus Mugo Leaf Oil; Pinus Mugo Twig Leaf Extract; Pinus Mugo Twig Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "109"
+    }
+  },
+  {
+    "ingredient": "Pinus Sylvestris Oil; Pinus Sylvestris Leaf extract; Pinus Sylvestris Leaf Oil; Pinus Sylvestris Leaf Water; Pinus Sylvestris Cone Extract; Pinus Sylvestris Bark Extract; Pinus Sylvestris Bud Extract Pinus Sylvestris Twig Leaf Extract Pinus Sylvestris twig Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "110"
+    }
+  },
+  {
+    "ingredient": "Pinus Nigra Bud/Needle Extract Pinus Nigra Twig Leaf Extract Pinus Nigra Twig Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "111"
+    }
+  },
+  {
+    "ingredient": "Pinus Palustris Leaf Extract; Pinus Palustris Oil Pinus Palustris Twig Leaf Extract Pinus Palustris Twig Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "112"
+    }
+  },
+  {
+    "ingredient": "Pinus Pinaster Twig Leaf Oil; Pinus Pinaster Twig Leaf Extract",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "113"
+    }
+  },
+  {
+    "ingredient": "Pinus Pumila Needle Extract; Pinus Pumila Twig Leaf Extract; Pinus Pumila Twig Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "114"
+    }
+  },
+  {
+    "ingredient": "Pinus Pumila Needle Extract; Pinus Pumila Twig Leaf Extract; Pinus Pumila Twig Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "114"
+    }
+  },
+  {
+    "ingredient": "Pinus Strobus Bark Extract; Pinus Strobus Cone Extract; Pinus Strobus Twig Oil Pinus Species Twig Leaf Extract Pinus Species Twig Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "115"
+    }
+  },
+  {
+    "ingredient": "Pinus Cembra Twig Leaf Oil Pinus Cembra Twig Leaf Extract",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "116"
+    }
+  },
+  {
+    "ingredient": "Pinus Cembra Twig Leaf Extract Acetylated",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "117"
+    }
+  },
+  {
+    "ingredient": "Picea Mariana Leaf Extract; Picea Mariana Leaf Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "118"
+    }
+  },
+  {
+    "ingredient": "Thuja Occidentalis Bark Extract; Thuja Occidentalis Leaf; Thuja Occidentalis Leaf Extract; Thuja Occidentalis Leaf Oil; Thuja Occidentalis Stem Extract; Thuja Occidentalis Stem Oil; Thuja Occidentalis Root Extract",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "119"
+    }
+  },
+  {
+    "ingredient": "3-Carene; 3,7,7-Trimethylbicyclo[4.1.0]hept-3-ene (isodiprene)",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "121"
+    }
+  },
+  {
+    "ingredient": "Cedrus Atlantica Bark Extract; Cedrus Atlantica Bark Oil; Cedrus Atlantica Bark Water; Cedrus Atlantica Leaf Extract; Cedrus Atlantica Wood Extract; Cedrus Atlantica Wood Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "122"
+    }
+  },
+  {
+    "ingredient": "Cedrus Atlantica Bark Extract; Cedrus Atlantica Bark Oil; Cedrus Atlantica Bark Water; Cedrus Atlantica Leaf Extract; Cedrus Atlantica Wood Extract; Cedrus Atlantica Wood Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "122"
+    }
+  },
+  {
+    "ingredient": "Cupressus Sempervirens Leaf Oil; Cupressus Sempervirens Bark Extract; Cupressus Sempervirens Cone Extract; Cupressus Sempervirens Fruit Extract; Cupressus Sempervirens Leaf Extract; Cupressus Sempervirens Leaf/Nut/Stem Oil; Cupressus Sempervirens Leaf/Stem Extract; Cupressus Sempervirens Leaf Water; Cupressus Sempervirens Seed Extract; Cupressus Sempervirens Oil",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "123"
+    }
+  },
+  {
+    "ingredient": "Turpentine",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "124"
+    }
+  },
+  {
+    "ingredient": "Turpentine",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "124"
+    }
+  },
+  {
+    "ingredient": "Terpene alcohols acetates",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "127"
+    }
+  },
+  {
+    "ingredient": "Terpene hydrocarbons",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "128"
+    }
+  },
+  {
+    "ingredient": "Terpenes and terpenoids",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "129"
+    }
+  },
+  {
+    "ingredient": "Terpenes and terpenoids",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "130"
+    }
+  },
+  {
+    "ingredient": "Alpha-Terpinene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "131"
+    }
+  },
+  {
+    "ingredient": "Alpha-Terpinene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "131"
+    }
+  },
+  {
+    "ingredient": "gamma-Terpinene",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "132"
+    }
+  },
+  {
+    "ingredient": "Terpinolene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "133"
+    }
+  },
+  {
+    "ingredient": "Terpinolene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "133"
+    }
+  },
+  {
+    "ingredient": "Acetyl Hexamethyl indan",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Leave-on products (b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "134"
+    }
+  },
+  {
+    "ingredient": "Allyl butyrate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "135"
+    }
+  },
+  {
+    "ingredient": "Allyl cinnamate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "136"
+    }
+  },
+  {
+    "ingredient": "Allyl cyclohexylacetate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "137"
+    }
+  },
+  {
+    "ingredient": "Allyl cyclohexylpropionate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "138"
+    }
+  },
+  {
+    "ingredient": "Allyl heptanoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "139"
+    }
+  },
+  {
+    "ingredient": "Allyl Caproate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "140"
+    }
+  },
+  {
+    "ingredient": "Allyl isovalerate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "141"
+    }
+  },
+  {
+    "ingredient": "Allyl octanoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "142"
+    }
+  },
+  {
+    "ingredient": "Allyl phenoxyacetate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "143"
+    }
+  },
+  {
+    "ingredient": "Allyl phenylacetate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "144"
+    }
+  },
+  {
+    "ingredient": "Allyl 3,5,5-trimethylhexanoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "145"
+    }
+  },
+  {
+    "ingredient": "Allyl cyclohexyloxyacetate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "146"
+    }
+  },
+  {
+    "ingredient": "Isoamyl Allylglycolate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "147"
+    }
+  },
+  {
+    "ingredient": "Allyl 2-methylbutoxyacetate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "148"
+    }
+  },
+  {
+    "ingredient": "Allyl nonanoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "149"
+    }
+  },
+  {
+    "ingredient": "Allyl propionate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "150"
+    }
+  },
+  {
+    "ingredient": "Allyl trimethylhexanoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "151"
+    }
+  },
+  {
+    "ingredient": "Allyl phenethyl ether",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "151a"
+    }
+  },
+  {
+    "ingredient": "Allyl heptine carbonate",
+    "max_concentration_percent": 0.002,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "152"
+    }
+  },
+  {
+    "ingredient": "Amylcyclopentenone",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "153"
+    }
+  },
+  {
+    "ingredient": "Myroxylon Balsamum Pereirae Balsam Extract; Myroxylon Balsamum Pereirae Balsam Oil; Myroxylon Pereirae Oil; Myroxylon Pereirae Resin Extract; Myroxylon Pereirae Resin",
+    "max_concentration_percent": 0.4,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "154"
+    }
+  },
+  {
+    "ingredient": "4-tert.-Butyldihydrocinnamaldehyde",
+    "max_concentration_percent": 0.6,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "155"
+    }
+  },
+  {
+    "ingredient": "Cuminum Cyminum Fruit Oil; Cuminum Cyminum Fruit Extract; Cuminum Cyminum Seed Oil; Cuminum Cyminum Seed Extract; Cuminum Cyminum Seed Powder",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "(a) Leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "156"
+    }
+  },
+  {
+    "ingredient": "Cuminum Cyminum Fruit Oil; Cuminum Cyminum Fruit Extract; Cuminum Cyminum Seed Oil; Cuminum Cyminum Seed Extract; Cuminum Cyminum Seed Powder",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "156"
+    }
+  },
+  {
+    "ingredient": "Alpha-Damascone; cis-Rose ketone 1",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "trans-Rose ketone 1",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "Rose ketone 4 (Damascone)",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "Rose ketone 3 (delta-Damascone)",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "trans-Rose ketone 3",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "cis-Rose ketone 2 (cis-beta-Damascone)",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "trans-Rose ketone 2 (trans-beta-Damascone)",
+    "max_concentration_percent": 0.02,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "157"
+    }
+  },
+  {
+    "ingredient": "trans-Rose ketone-5",
+    "max_concentration_percent": 0.02,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "159"
+    }
+  },
+  {
+    "ingredient": "Rose ketone-5",
+    "max_concentration_percent": 0.02,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "164"
+    }
+  },
+  {
+    "ingredient": "trans-2-hexenal",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "166"
+    }
+  },
+  {
+    "ingredient": "trans-2-hexenal",
+    "max_concentration_percent": 0.002,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "166"
+    }
+  },
+  {
+    "ingredient": "Perillaldehyde",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "169"
+    }
+  },
+  {
+    "ingredient": "Perillaldehyde",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "169"
+    }
+  },
+  {
+    "ingredient": "Isobergamate",
+    "max_concentration_percent": 0.1,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "170"
+    }
+  },
+  {
+    "ingredient": "Scentenal",
+    "max_concentration_percent": 0.5,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "171"
+    }
+  },
+  {
+    "ingredient": "3-Methylnon-2-enenitrile",
+    "max_concentration_percent": 0.2,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "172"
+    }
+  },
+  {
+    "ingredient": "Methyl octine carbonate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "173"
+    }
+  },
+  {
+    "ingredient": "Methyl octine carbonate",
+    "max_concentration_percent": 0.002,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "173"
+    }
+  },
+  {
+    "ingredient": "Methyl octine carbonate",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "173"
+    }
+  },
+  {
+    "ingredient": "Amylvinylcarbinyl acetate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "174"
+    }
+  },
+  {
+    "ingredient": "Amylvinylcarbinyl acetate",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "174"
+    }
+  },
+  {
+    "ingredient": "3-Propylidenephthalide",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(a) Oral products (b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "175"
+    }
+  },
+  {
+    "ingredient": "Isocyclogeraniol",
+    "max_concentration_percent": 0.5,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "176"
+    }
+  },
+  {
+    "ingredient": "2-Hexylidene cyclopentanone",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "177"
+    }
+  },
+  {
+    "ingredient": "2-Hexylidene cyclopentanone",
+    "max_concentration_percent": 0.06,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "177"
+    }
+  },
+  {
+    "ingredient": "Methyl heptadienone",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(a) Oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "178"
+    }
+  },
+  {
+    "ingredient": "Methyl heptadienone",
+    "max_concentration_percent": 0.002,
+    "product_types": [
+      "(b) Other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "178"
+    }
+  },
+  {
+    "ingredient": "p-methylhydrocinnamic aldehyde",
+    "max_concentration_percent": 0.2,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "179"
+    }
+  },
+  {
+    "ingredient": "Liquidambar Orientalis Resin Extract; Liquidambar Orientalis Balsam Extract; Liquidambar Orientalis Balsam Oil",
+    "max_concentration_percent": 0.6,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "180"
+    }
+  },
+  {
+    "ingredient": "Liquidambar Styraciflua Oil; Liquidambar Styraciflua Balsam Extract; Liquidambar Styraciflua Balsam Oil",
+    "max_concentration_percent": 0.6,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "181"
+    }
+  },
+  {
+    "ingredient": "Acetyl hexamethyl tetralin",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "All cosmetic products with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "182"
+    }
+  },
+  {
+    "ingredient": "Acetyl hexamethyl tetralin",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "All cosmetic products with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "182"
+    }
+  },
+  {
+    "ingredient": "Acetyl hexamethyl tetralin",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "All cosmetic products with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "182"
+    }
+  },
+  {
+    "ingredient": "Acetyl hexamethyl tetralin",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "All cosmetic products with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "182"
+    }
+  },
+  {
+    "ingredient": "Acetyl hexamethyl tetralin",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "All cosmetic products with the exception of oral products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "182"
+    }
+  },
+  {
+    "ingredient": "Opoponax oil",
+    "max_concentration_percent": 0.6,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "183"
+    }
+  },
+  {
+    "ingredient": "Opopanax chironium resin",
+    "max_concentration_percent": 0.6,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "184"
+    }
+  },
+  {
+    "ingredient": "Toluene",
+    "max_concentration_percent": 25.0,
+    "product_types": [
+      "Nail products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "185"
+    }
+  },
+  {
+    "ingredient": "Diethylene glycol",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "As traces in ingredients"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "186"
+    }
+  },
+  {
+    "ingredient": "Butoxydiglycol",
+    "max_concentration_percent": 9.0,
+    "product_types": [
+      "Solvent in hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "187"
+    }
+  },
+  {
+    "ingredient": "Butoxyethanol",
+    "max_concentration_percent": 4.0,
+    "product_types": [
+      "(a) Solvent in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "188"
+    }
+  },
+  {
+    "ingredient": "Butoxyethanol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Solvent in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "188"
+    }
+  },
+  {
+    "ingredient": "Acid Yellow 23; Acid Yellow 23 Aluminum lake",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "189"
+    }
+  },
+  {
+    "ingredient": "Acid Blue 9; Acid Blue 9 Ammonium Salt; Acid Blue 9 Aluminum Lake",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "190"
+    }
+  },
+  {
+    "ingredient": "Curry Red",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "191"
+    }
+  },
+  {
+    "ingredient": "Acid Red 18; Acid Red 18 Aluminum Lake",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "192"
+    }
+  },
+  {
+    "ingredient": "Acid Red 52",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "193"
+    }
+  },
+  {
+    "ingredient": "Acid Red 52",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "193"
+    }
+  },
+  {
+    "ingredient": "Glyoxal",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "194"
+    }
+  },
+  {
+    "ingredient": "Acid Blue 62",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "195"
+    }
+  },
+  {
+    "ingredient": "Lippia citriodora absolute",
+    "max_concentration_percent": 0.2,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "196"
+    }
+  },
+  {
+    "ingredient": "Ethyl Lauroyl Arginate HCl",
+    "max_concentration_percent": 0.8,
+    "product_types": [
+      "(a) soap (b) anti-dandruff shampoos (c) deodorants, not in form of spray"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "197"
+    }
+  },
+  {
+    "ingredient": "N,N-bis(2-Hydroxyethyl)-p-Phenylenediamine Sulfate",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "198"
+    }
+  },
+  {
+    "ingredient": "4-Chlororesorcinol",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "199"
+    }
+  },
+  {
+    "ingredient": "Tetraaminopyrimidine Sulfate",
+    "max_concentration_percent": 3.4,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "200"
+    }
+  },
+  {
+    "ingredient": "Tetraaminopyrimidine Sulfate",
+    "max_concentration_percent": 3.4,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "200"
+    }
+  },
+  {
+    "ingredient": "Tetraaminopyrimidine Sulfate",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(c) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "200"
+    }
+  },
+  {
+    "ingredient": "2-Chloro-6-ethylamino-4-nitrophenol",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "201"
+    }
+  },
+  {
+    "ingredient": "2-Chloro-6-ethylamino-4-nitrophenol",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "201"
+    }
+  },
+  {
+    "ingredient": "See 226",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "202"
+    }
+  },
+  {
+    "ingredient": "Dihydroxy indoline Dihydroxy indoline HBr",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "204"
+    }
+  },
+  {
+    "ingredient": "See 219",
+    "max_concentration_percent": null,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "205"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethyl-p- Phenylenediamine Sulfate",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "206"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethyl-p- Phenylenediamine Sulfate",
+    "max_concentration_percent": 1.75,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "206"
+    }
+  },
+  {
+    "ingredient": "Dihydroxyindole",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "207"
+    }
+  },
+  {
+    "ingredient": "Dihydroxyindole",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "207"
+    }
+  },
+  {
+    "ingredient": "5-Amino-4-Chloro-o-Cresol HCl",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "208"
+    }
+  },
+  {
+    "ingredient": "6-Hydroxyindole",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "209"
+    }
+  },
+  {
+    "ingredient": "Isatin",
+    "max_concentration_percent": 1.6,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "210"
+    }
+  },
+  {
+    "ingredient": "2-Amino-3- Hydroxypyridine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "211"
+    }
+  },
+  {
+    "ingredient": "2-Amino-3- Hydroxypyridine",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "211"
+    }
+  },
+  {
+    "ingredient": "1-Acetoxy-2-Methylnaphthalene",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "212"
+    }
+  },
+  {
+    "ingredient": "2-Methyl-1-Naphthol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "213"
+    }
+  },
+  {
+    "ingredient": "Acid Yellow 1",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "214"
+    }
+  },
+  {
+    "ingredient": "Acid Yellow 1",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "214"
+    }
+  },
+  {
+    "ingredient": "4-Amino-3-nitrophenol",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "215"
+    }
+  },
+  {
+    "ingredient": "4-Amino-3-nitrophenol",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "215"
+    }
+  },
+  {
+    "ingredient": "2,7-Naphthalenediol",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "216"
+    }
+  },
+  {
+    "ingredient": "2,7-Naphthalenediol",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "216"
+    }
+  },
+  {
+    "ingredient": "2,6-Dihydroxy-3,4-dimethylpyridine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "218"
+    }
+  },
+  {
+    "ingredient": "4-Hydroxypropylamino-3-nitrophenol",
+    "max_concentration_percent": 2.6,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "219"
+    }
+  },
+  {
+    "ingredient": "4-Hydroxypropylamino-3-nitrophenol",
+    "max_concentration_percent": 2.6,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "219"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 11",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "220"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethyl-2-Nitro-p-Toluidine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "221"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethyl-2-Nitro-p-Toluidine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "221"
+    }
+  },
+  {
+    "ingredient": "2-Hydroxyethylpicramic acid",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "222"
+    }
+  },
+  {
+    "ingredient": "2-Hydroxyethylpicramic acid",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "222"
+    }
+  },
+  {
+    "ingredient": "p-Methylaminophenol p-Methylaminophenol sulphate",
+    "max_concentration_percent": 0.68,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "223"
+    }
+  },
+  {
+    "ingredient": "HC Violet No 2",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "224"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 12",
+    "max_concentration_percent": 0.75,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "225"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 12",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "225"
+    }
+  },
+  {
+    "ingredient": "1,3-bis-(2,4-Diaminophenoxy)propane 1,3-bis-(2,4-Diaminophenoxy)propane HCl",
+    "max_concentration_percent": 1.2,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "226"
+    }
+  },
+  {
+    "ingredient": "1,3-bis-(2,4-Diaminophenoxy)propane 1,3-bis-(2,4-Diaminophenoxy)propane HCl",
+    "max_concentration_percent": 1.2,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "226"
+    }
+  },
+  {
+    "ingredient": "3-Amino-2,4-dichlorophenol 3-Amino-2,4-dichlorophenol HCl",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "227"
+    }
+  },
+  {
+    "ingredient": "3-Amino-2,4-dichlorophenol 3-Amino-2,4-dichlorophenol HCl",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "227"
+    }
+  },
+  {
+    "ingredient": "Phenyl methyl pyrazoloné",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "228"
+    }
+  },
+  {
+    "ingredient": "Hydroxybenzomorpholine",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "230"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 10",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dyes products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "231"
+    }
+  },
+  {
+    "ingredient": "2,6-Dimethoxy-3,5-pyridinediamine 2,6-Dimethoxy-3,5-pyridinediamine HCl",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "232"
+    }
+  },
+  {
+    "ingredient": "HC Orange No 2",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "233"
+    }
+  },
+  {
+    "ingredient": "HC Violet No 1",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "234"
+    }
+  },
+  {
+    "ingredient": "HC Violet No 1",
+    "max_concentration_percent": 0.28,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "234"
+    }
+  },
+  {
+    "ingredient": "3-Methylamino-4-nitrophenoxyethanol",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "235"
+    }
+  },
+  {
+    "ingredient": "2-Hydroxyethylamino-5-nitroanisole",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "236"
+    }
+  },
+  {
+    "ingredient": "HC Red No 13",
+    "max_concentration_percent": 1.25,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "237"
+    }
+  },
+  {
+    "ingredient": "HC Red No 13",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "237"
+    }
+  },
+  {
+    "ingredient": "1,5-Naphthalenediol",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "238"
+    }
+  },
+  {
+    "ingredient": "1,5-Naphthalenediol",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "238"
+    }
+  },
+  {
+    "ingredient": "Hydroxypropyl bis(N-hydroxyethyl-p-phenylenediamine) HCl",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "239"
+    }
+  },
+  {
+    "ingredient": "4-Nitro-o-Phenylenediamine",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "240"
+    }
+  },
+  {
+    "ingredient": "2-Methylresorcinol",
+    "max_concentration_percent": 1.8,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "243"
+    }
+  },
+  {
+    "ingredient": "2-Methylresorcinol",
+    "max_concentration_percent": 1.8,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "243"
+    }
+  },
+  {
+    "ingredient": "2-Methylresorcinol",
+    "max_concentration_percent": 1.25,
+    "product_types": [
+      "(c) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "243"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethyl-3,4-methylenedioxyaniline HCl",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "246"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 2",
+    "max_concentration_percent": 2.8,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "247"
+    }
+  },
+  {
+    "ingredient": "3-Nitro-p-hydroxyethylaminophenol",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "248"
+    }
+  },
+  {
+    "ingredient": "3-Nitro-p-hydroxyethylaminophenol",
+    "max_concentration_percent": 1.85,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "248"
+    }
+  },
+  {
+    "ingredient": "4-Nitrophenyl aminoethylurea",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "249"
+    }
+  },
+  {
+    "ingredient": "4-Nitrophenyl aminoethylurea",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "249"
+    }
+  },
+  {
+    "ingredient": "HC Red No 10 + HC Red No 11",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "250"
+    }
+  },
+  {
+    "ingredient": "HC Red No 10 + HC Red No 11",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "250"
+    }
+  },
+  {
+    "ingredient": "HC Red No 7",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "251"
+    }
+  },
+  {
+    "ingredient": "2-Amino-6-chloro-4-nitrophenol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "252"
+    }
+  },
+  {
+    "ingredient": "2-Amino-6-chloro-4-nitrophenol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "252"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 4",
+    "max_concentration_percent": 1.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "253"
+    }
+  },
+  {
+    "ingredient": "Acid Red 33",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "254"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 2",
+    "max_concentration_percent": 0.75,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "255"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 2",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "255"
+    }
+  },
+  {
+    "ingredient": "HC Orange No 1",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "256"
+    }
+  },
+  {
+    "ingredient": "Laureth-9",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(a) Leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "257"
+    }
+  },
+  {
+    "ingredient": "Laureth-9",
+    "max_concentration_percent": 4.0,
+    "product_types": [
+      "(b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "257"
+    }
+  },
+  {
+    "ingredient": "HC Red No 1",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "258"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 9",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "259"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 7",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "260"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 13",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "261"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 13",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "261"
+    }
+  },
+  {
+    "ingredient": "Basic Yellow 57",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "262"
+    }
+  },
+  {
+    "ingredient": "Disperse Black 9",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "263"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 14",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "264"
+    }
+  },
+  {
+    "ingredient": "Disperse Violet 1",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "265"
+    }
+  },
+  {
+    "ingredient": "HC Red No 3",
+    "max_concentration_percent": 0.45,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "266"
+    }
+  },
+  {
+    "ingredient": "HC Red No 3",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "266"
+    }
+  },
+  {
+    "ingredient": "Basic Red 76",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "267"
+    }
+  },
+  {
+    "ingredient": "Basic Red 51",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "268"
+    }
+  },
+  {
+    "ingredient": "Basic Red 51",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "268"
+    }
+  },
+  {
+    "ingredient": "2-Amino-5-Ethylphenol HCl",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "269"
+    }
+  },
+  {
+    "ingredient": "Acid Red 92",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "270"
+    }
+  },
+  {
+    "ingredient": "Acid Red 92",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "270"
+    }
+  },
+  {
+    "ingredient": "Disperse Blue 377 is a mixture of three dyes:",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "271"
+    }
+  },
+  {
+    "ingredient": "(1) 1,4-bis[(2-hydroxyethyl)amino]anthra-9,10-quinone",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "271"
+    }
+  },
+  {
+    "ingredient": "(2) 1-[(2-hydroxyethyl)amino]-4-[(3-hydroxypropyl)amino]anthra-9,10-quinone",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "271"
+    }
+  },
+  {
+    "ingredient": "(3) 1,4-bis[(3-hydroxypropyl)amino]anthra-9,10-quinone",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "271"
+    }
+  },
+  {
+    "ingredient": "p-Aminophenol",
+    "max_concentration_percent": 0.9,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "272"
+    }
+  },
+  {
+    "ingredient": "p-Aminophenol",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "272"
+    }
+  },
+  {
+    "ingredient": "1-Hydroxyethyl-4,5-Diamino Pyrazole Sulfate",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "273"
+    }
+  },
+  {
+    "ingredient": "4-Formyl-1-Methylquinolinium-p-Toluenesulfonate",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "274"
+    }
+  },
+  {
+    "ingredient": "Basic Yellow 87",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "275"
+    }
+  },
+  {
+    "ingredient": "Basic Yellow 87",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "275"
+    }
+  },
+  {
+    "ingredient": "Basic Orange 31",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "276"
+    }
+  },
+  {
+    "ingredient": "Basic Orange 31",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "276"
+    }
+  },
+  {
+    "ingredient": "2,6-Diamino-3-((Pyridine-3-yl)azo)Pyridine",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "277"
+    }
+  },
+  {
+    "ingredient": "2,6-Diamino-3-((Pyridine-3-yl)azo)Pyridine",
+    "max_concentration_percent": 0.25,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "277"
+    }
+  },
+  {
+    "ingredient": "Basic Violet 2",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "278"
+    }
+  },
+  {
+    "ingredient": "Basic Violet 2",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "278"
+    }
+  },
+  {
+    "ingredient": "2,3-Diaminodihydropyrazolopyrazolone Dimethosulfonate",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "279"
+    }
+  },
+  {
+    "ingredient": "Picramic Acid and Sodium Picramate",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "280"
+    }
+  },
+  {
+    "ingredient": "Picramic Acid and Sodium Picramate",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "280"
+    }
+  },
+  {
+    "ingredient": "2-Nitro-5-Glyceryl Methylaniline",
+    "max_concentration_percent": 0.8,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "281"
+    }
+  },
+  {
+    "ingredient": "2-Nitro-5-Glyceryl Methylaniline",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "281"
+    }
+  },
+  {
+    "ingredient": "HC Blue 16",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "282"
+    }
+  },
+  {
+    "ingredient": "5-Amino-6-Chloro-o-Cresol 5-Amino-6-Chloro-o-Cresol HCl",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "283"
+    }
+  },
+  {
+    "ingredient": "5-Amino-6-Chloro-o-Cresol 5-Amino-6-Chloro-o-Cresol HCl",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "283"
+    }
+  },
+  {
+    "ingredient": "2,2'-Methylenebis-4-aminophenol HCl",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "284"
+    }
+  },
+  {
+    "ingredient": "2,2'-Methylenebis-4-aminophenol HCl",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "284"
+    }
+  },
+  {
+    "ingredient": "2,6-Diaminopyridine",
+    "max_concentration_percent": 0.15,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "285"
+    }
+  },
+  {
+    "ingredient": "2,6-Diaminopyridine",
+    "max_concentration_percent": null,
+    "product_types": [
+      "(b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "285"
+    }
+  },
+  {
+    "ingredient": "Cetrimonium chloride (19)",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(a) Rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "286"
+    }
+  },
+  {
+    "ingredient": "Steartrimonium chloride (19)",
+    "max_concentration_percent": 2.5,
+    "product_types": [
+      "(a) Rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "286"
+    }
+  },
+  {
+    "ingredient": "Steartrimonium chloride (19)",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "(b) Leave-on hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "286"
+    }
+  },
+  {
+    "ingredient": "Steartrimonium chloride (19)",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(c) Leave-on face products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "286"
+    }
+  },
+  {
+    "ingredient": "Behentrimonium chloride (19)",
+    "max_concentration_percent": 5.0,
+    "product_types": [
+      "(a) Rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "287"
+    }
+  },
+  {
+    "ingredient": "Behentrimonium chloride (19)",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(b) Leave-on hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "287"
+    }
+  },
+  {
+    "ingredient": "Behentrimonium chloride (19)",
+    "max_concentration_percent": 3.0,
+    "product_types": [
+      "(c) Leave-on face products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "287"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 17",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products (b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "288"
+    }
+  },
+  {
+    "ingredient": "HC Blue No 15",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products (b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "289"
+    }
+  },
+  {
+    "ingredient": "Acid Green 25",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "290"
+    }
+  },
+  {
+    "ingredient": "Acid Violet 43",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "291"
+    }
+  },
+  {
+    "ingredient": "2-Methoxymethyl-p-Phenylenediamine 2-Methoxymethyl-p-Phenylenediamine Sulfate",
+    "max_concentration_percent": 1.8,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products (b) Products intended for colouring eyelashes"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "292"
+    }
+  },
+  {
+    "ingredient": "Hydroxyanthraquinone-aminopropyl Methyl Morpholinium Methosulfate",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "293"
+    }
+  },
+  {
+    "ingredient": "Disperse Red 17",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products (b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "294"
+    }
+  },
+  {
+    "ingredient": "Acid Black 1",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "295"
+    }
+  },
+  {
+    "ingredient": "Pigment Red 57",
+    "max_concentration_percent": 0.4,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "296"
+    }
+  },
+  {
+    "ingredient": "HC Red No 17",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "298"
+    }
+  },
+  {
+    "ingredient": "HC Yellow No 17",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "299"
+    }
+  },
+  {
+    "ingredient": "1-Hexyl 4,5-Diamino Pyrazole Sulfate",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "300"
+    }
+  },
+  {
+    "ingredient": "2,5,6-Triamino-4-Pyrimidinol Sulfate",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "301"
+    }
+  },
+  {
+    "ingredient": "Hydroxyethoxy Aminopyrazolopyridine HCl",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "302"
+    }
+  },
+  {
+    "ingredient": "3-Amino-2,6-Dimethylphenol",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "303"
+    }
+  },
+  {
+    "ingredient": "Basic Brown 17",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "304"
+    }
+  },
+  {
+    "ingredient": "Basic Blue 124",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "305"
+    }
+  },
+  {
+    "ingredient": "Tagetes minuta flower extract Tagetes minuta flower oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(a) Leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "308"
+    }
+  },
+  {
+    "ingredient": "Tagetes minuta flower extract Tagetes minuta flower oil",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "308"
+    }
+  },
+  {
+    "ingredient": "Tagetes patula flower extract Tagetes patula flower oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [
+      "(a) Leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "309"
+    }
+  },
+  {
+    "ingredient": "Tagetes patula flower extract Tagetes patula flower oil",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "309"
+    }
+  },
+  {
+    "ingredient": "Climbazole",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Rinse-off anti-dandruff shampoo (29)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "310"
+    }
+  },
+  {
+    "ingredient": "Furfural",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "312"
+    }
+  },
+  {
+    "ingredient": "HEMA",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Nail products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "313"
+    }
+  },
+  {
+    "ingredient": "DI-HEMA TRIMETHYLHEXYL DICARBAMATE",
+    "max_concentration_percent": null,
+    "product_types": [
+      "Nail products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "314"
+    }
+  },
+  {
+    "ingredient": "Dimethylpiperazinium Aminopyrazolopyridine HCl",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "315"
+    }
+  },
+  {
+    "ingredient": "Methylimidazoliumpropyl p-phenylenediamine HCl",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hair dye substance in oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "316"
+    }
+  },
+  {
+    "ingredient": "HC Orange No 6",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "317"
+    }
+  },
+  {
+    "ingredient": "Acid Orange 7",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "318"
+    }
+  },
+  {
+    "ingredient": "Tetrabromophenol Blue",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(a) Hair dye substance in oxidative hair dye products (b) Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "319"
+    }
+  },
+  {
+    "ingredient": "Indigofera tinctoria leaf Indigofera tinctoria leaf powder Indigofera tinctoria leaf extract Indigofera tinctoria extract",
+    "max_concentration_percent": 25.0,
+    "product_types": [
+      "Hair dye substance in non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "320"
+    }
+  },
+  {
+    "ingredient": "Titanium Dioxide",
+    "max_concentration_percent": 25.0,
+    "product_types": [
+      "(a) face products in loose powder form (b) hair aerosol spray products (c) other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "321"
+    }
+  },
+  {
+    "ingredient": "Titanium Dioxide",
+    "max_concentration_percent": 1.4,
+    "product_types": [
+      "(a) face products in loose powder form (b) hair aerosol spray products (c) other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "321"
+    }
+  },
+  {
+    "ingredient": "Titanium Dioxide",
+    "max_concentration_percent": 1.1,
+    "product_types": [
+      "(a) face products in loose powder form (b) hair aerosol spray products (c) other products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "321"
+    }
+  },
+  {
+    "ingredient": "Methyl-N-methylanthranilate (33)",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(a) Leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "323"
+    }
+  },
+  {
+    "ingredient": "Methyl-N-methylanthranilate (33)",
+    "max_concentration_percent": 0.2,
+    "product_types": [
+      "(b) Rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "323"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.06,
+    "product_types": [
+      "(a) Leave-on skin products (except face makeup, spray/aerosol body lotion, spray/aerosol deodorant and hydroalcoholic-based fragrances) and leave on hair products (except spray/aerosol products)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.05,
+    "product_types": [
+      "(b) Face makeup (except lip products, eye makeup and makeup remover)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.002,
+    "product_types": [
+      "(c) Eye makeup and makeup remover"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.009,
+    "product_types": [
+      "(d) Leave-on hair products (spray/aerosol)"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.003,
+    "product_types": [
+      "(e) Deodorant spray/aerosol"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.04,
+    "product_types": [
+      "(f) Body lotion spray/aerosol"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.06,
+    "product_types": [
+      "(g) Rinse-off skin products (except hand wash) and rinse-off hair products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(h) Hand wash"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(i) Hydroalcoholic-based fragrances"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.03,
+    "product_types": [
+      "(j) Lip products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 2.52,
+    "product_types": [
+      "(k) Toothpaste"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "(l) Mouthwash intended for children aged 6–10 years"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.6,
+    "product_types": [
+      "(m) Mouthwash intended for children above 10 years of age and adults"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "Methyl Salicylate",
+    "max_concentration_percent": 0.65,
+    "product_types": [
+      "(n) Mouth spray"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "324"
+    }
+  },
+  {
+    "ingredient": "BHT",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "a) Mouthwash b) Toothpaste c) Other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "325"
+    }
+  },
+  {
+    "ingredient": "BHT",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "a) Mouthwash b) Toothpaste c) Other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "325"
+    }
+  },
+  {
+    "ingredient": "BHT",
+    "max_concentration_percent": 0.8,
+    "product_types": [
+      "a) Mouthwash b) Toothpaste c) Other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "325"
+    }
+  },
+  {
+    "ingredient": "Acid Yellow 3",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "Non-oxidative hair dye products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "326"
+    }
+  },
+  {
+    "ingredient": "Acetyl Cedrene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "327"
+    }
+  },
+  {
+    "ingredient": "Acetyl Cedrene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "327"
+    }
+  },
+  {
+    "ingredient": "Amyl Salicylate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "328"
+    }
+  },
+  {
+    "ingredient": "Amyl Salicylate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "328"
+    }
+  },
+  {
+    "ingredient": "Anethole",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "329"
+    }
+  },
+  {
+    "ingredient": "Anethole",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "329"
+    }
+  },
+  {
+    "ingredient": "Benzaldehyde",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "330"
+    }
+  },
+  {
+    "ingredient": "Benzaldehyde",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "330"
+    }
+  },
+  {
+    "ingredient": "Camphor",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "331"
+    }
+  },
+  {
+    "ingredient": "Camphor",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "331"
+    }
+  },
+  {
+    "ingredient": "Beta-Caryophyllene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "332"
+    }
+  },
+  {
+    "ingredient": "Beta-Caryophyllene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "332"
+    }
+  },
+  {
+    "ingredient": "Carvone",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "333"
+    }
+  },
+  {
+    "ingredient": "Carvone",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "333"
+    }
+  },
+  {
+    "ingredient": "Dimethyl Phenethyl Acetate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "334"
+    }
+  },
+  {
+    "ingredient": "Dimethyl Phenethyl Acetate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "334"
+    }
+  },
+  {
+    "ingredient": "Hexadecanolactone",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "335"
+    }
+  },
+  {
+    "ingredient": "Hexadecanolactone",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "335"
+    }
+  },
+  {
+    "ingredient": "Hexamethylindanopyran",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "336"
+    }
+  },
+  {
+    "ingredient": "Hexamethylindanopyran",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "336"
+    }
+  },
+  {
+    "ingredient": "Linalyl Acetate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "337"
+    }
+  },
+  {
+    "ingredient": "Linalyl Acetate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "337"
+    }
+  },
+  {
+    "ingredient": "Menthol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "338"
+    }
+  },
+  {
+    "ingredient": "Menthol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "338"
+    }
+  },
+  {
+    "ingredient": "Trimethylcyclopentenyl Methylisopentenol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "339"
+    }
+  },
+  {
+    "ingredient": "Trimethylcyclopentenyl Methylisopentenol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "339"
+    }
+  },
+  {
+    "ingredient": "Salicylaldehyde",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "340"
+    }
+  },
+  {
+    "ingredient": "Salicylaldehyde",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "340"
+    }
+  },
+  {
+    "ingredient": "Santalol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "341"
+    }
+  },
+  {
+    "ingredient": "Santalol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "341"
+    }
+  },
+  {
+    "ingredient": "Sclareol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "342"
+    }
+  },
+  {
+    "ingredient": "Sclareol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "342"
+    }
+  },
+  {
+    "ingredient": "Terpineol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "343"
+    }
+  },
+  {
+    "ingredient": "Terpineol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "343"
+    }
+  },
+  {
+    "ingredient": "Tetramethyl acetyloctahydronaphthalenes",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "344"
+    }
+  },
+  {
+    "ingredient": "Tetramethyl acetyloctahydronaphthalenes",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "344"
+    }
+  },
+  {
+    "ingredient": "Trimethylbenzenepropanol",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "345"
+    }
+  },
+  {
+    "ingredient": "Trimethylbenzenepropanol",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "345"
+    }
+  },
+  {
+    "ingredient": "Vanillin",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "346"
+    }
+  },
+  {
+    "ingredient": "Vanillin",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "346"
+    }
+  },
+  {
+    "ingredient": "Cananga Odorata Flower Extract; Cananga Odorata Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "347"
+    }
+  },
+  {
+    "ingredient": "Cananga Odorata Flower Extract; Cananga Odorata Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "347"
+    }
+  },
+  {
+    "ingredient": "Cinnamomum Cassia Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "348"
+    }
+  },
+  {
+    "ingredient": "Cinnamomum Cassia Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "348"
+    }
+  },
+  {
+    "ingredient": "Cinnamomum Zeylanicum Bark Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "349"
+    }
+  },
+  {
+    "ingredient": "Cinnamomum Zeylanicum Bark Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "349"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Amara Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "350"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Amara Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "350"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Dulcis Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "350"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Dulcis Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "350"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Amara Peel Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "351"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Amara Peel Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "351"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Dulcis Peel Oil; Citrus Sinensis Peel Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "351"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Dulcis Peel Oil; Citrus Sinensis Peel Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "351"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Bergamia Peel Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "352"
+    }
+  },
+  {
+    "ingredient": "Citrus Aurantium Bergamia Peel Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "352"
+    }
+  },
+  {
+    "ingredient": "Citrus Limon Peel Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "353"
+    }
+  },
+  {
+    "ingredient": "Citrus Limon Peel Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "353"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Schoenanthus Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Schoenanthus Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Flexuosus Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Flexuosus Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Citratus Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Cymbopogon Citratus Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "354"
+    }
+  },
+  {
+    "ingredient": "Eucalyptus Globulus Leaf Oil;",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "355"
+    }
+  },
+  {
+    "ingredient": "Eucalyptus Globulus Leaf Oil;",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "355"
+    }
+  },
+  {
+    "ingredient": "Eucalyptus Globulus Leaf/Twig Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "355"
+    }
+  },
+  {
+    "ingredient": "Eucalyptus Globulus Leaf/Twig Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "355"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Stem oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Stem oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Bud oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Eugenia Caryophyllus Bud oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "356"
+    }
+  },
+  {
+    "ingredient": "Jasminum Grandiflorum Flower Extract; Jasminum Officinale Oil; Jasminum Officinale Flower Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "357"
+    }
+  },
+  {
+    "ingredient": "Jasminum Grandiflorum Flower Extract; Jasminum Officinale Oil; Jasminum Officinale Flower Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "357"
+    }
+  },
+  {
+    "ingredient": "Juniperus Virginiana Oil; Juniperus Virginiana Wood Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "358"
+    }
+  },
+  {
+    "ingredient": "Juniperus Virginiana Oil; Juniperus Virginiana Wood Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "358"
+    }
+  },
+  {
+    "ingredient": "Laurus Nobilis Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "359"
+    }
+  },
+  {
+    "ingredient": "Laurus Nobilis Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "359"
+    }
+  },
+  {
+    "ingredient": "Lavandula Hybrida Oil; Lavandula Hybrida Extract; Lavandula Hybrida Flower Extract;",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Lavandula Hybrida Oil; Lavandula Hybrida Extract; Lavandula Hybrida Flower Extract;",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Lavandula Intermedia Flower/Leaf/Stem Extract; Lavandula Intermedia Flower/Leaf/Stem Oil; Lavandula Intermedia Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Lavandula Intermedia Flower/Leaf/Stem Extract; Lavandula Intermedia Flower/Leaf/Stem Oil; Lavandula Intermedia Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Lavandula Angustifolia Oil; Lavandula Angustifolia Flower/Leaf/Stem Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Lavandula Angustifolia Oil; Lavandula Angustifolia Flower/Leaf/Stem Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "360"
+    }
+  },
+  {
+    "ingredient": "Mentha Piperita Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "361"
+    }
+  },
+  {
+    "ingredient": "Mentha Piperita Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "361"
+    }
+  },
+  {
+    "ingredient": "Mentha Viridis Leaf Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "362"
+    }
+  },
+  {
+    "ingredient": "Mentha Viridis Leaf Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "362"
+    }
+  },
+  {
+    "ingredient": "Narcissus Poeticus Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Narcissus Poeticus Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Narcissus Pseudonarcissus Flower Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Narcissus Pseudonarcissus Flower Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Narcissus Jonquilla Extract Narcissus Tazetta Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Narcissus Jonquilla Extract Narcissus Tazetta Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "363"
+    }
+  },
+  {
+    "ingredient": "Pelargonium Graveolens Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "364"
+    }
+  },
+  {
+    "ingredient": "Pelargonium Graveolens Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "364"
+    }
+  },
+  {
+    "ingredient": "Pogostemon Cablin Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "365"
+    }
+  },
+  {
+    "ingredient": "Pogostemon Cablin Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "365"
+    }
+  },
+  {
+    "ingredient": "Rosa Damascena Flower Oil; Rosa Damascena Flower Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Damascena Flower Oil; Rosa Damascena Flower Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Alba Flower Oil; Rosa Alba Flower Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Alba Flower Oil; Rosa Alba Flower Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Canina Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Canina Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Centifolia Flower Oil; Rosa Centifolia Flower Extract",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Centifolia Flower Oil; Rosa Centifolia Flower Extract",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Gallica Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Gallica Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Moschata Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Moschata Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Rugosa Flower Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Rosa Rugosa Flower Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "366"
+    }
+  },
+  {
+    "ingredient": "Santalum Album Oil",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "367"
+    }
+  },
+  {
+    "ingredient": "Santalum Album Oil",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "367"
+    }
+  },
+  {
+    "ingredient": "Eugenyl Acetate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "368"
+    }
+  },
+  {
+    "ingredient": "Eugenyl Acetate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "368"
+    }
+  },
+  {
+    "ingredient": "Geranyl Acetate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "369"
+    }
+  },
+  {
+    "ingredient": "Geranyl Acetate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "369"
+    }
+  },
+  {
+    "ingredient": "Isoeugenyl Acetate",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "370"
+    }
+  },
+  {
+    "ingredient": "Isoeugenyl Acetate",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "370"
+    }
+  },
+  {
+    "ingredient": "Pinene",
+    "max_concentration_percent": 0.001,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "371"
+    }
+  },
+  {
+    "ingredient": "Pinene",
+    "max_concentration_percent": 0.01,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "371"
+    }
+  },
+  {
+    "ingredient": "Hydroxyapatite (nano)",
+    "max_concentration_percent": 10.0,
+    "product_types": [
+      "(a) Toothpaste (b) Mouthwash"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "372"
+    }
+  },
+  {
+    "ingredient": "Hydroxyapatite (nano)",
+    "max_concentration_percent": 0.465,
+    "product_types": [
+      "(a) Toothpaste (b) Mouthwash"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "372"
+    }
+  },
+  {
+    "ingredient": "Genistein",
+    "max_concentration_percent": 0.007,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "373"
+    }
+  },
+  {
+    "ingredient": "Daidzein",
+    "max_concentration_percent": 0.02,
+    "product_types": [],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "374"
+    }
+  },
+  {
+    "ingredient": "Kojic Acid",
+    "max_concentration_percent": 1.0,
+    "product_types": [
+      "Face and hand products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "375"
+    }
+  },
+  {
+    "ingredient": "Retinol",
+    "max_concentration_percent": 0.05,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Retinol",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Retinyl Acetate",
+    "max_concentration_percent": 0.05,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Retinyl Acetate",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Retinyl Palmitate",
+    "max_concentration_percent": 0.05,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Retinyl Palmitate",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "(a) Body lotion (b) other leave-on and rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "376"
+    }
+  },
+  {
+    "ingredient": "Alpha-Arbutin",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "(a) Face cream (b) Body lotion"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "377"
+    }
+  },
+  {
+    "ingredient": "Alpha-Arbutin",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "(a) Face cream (b) Body lotion"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "377"
+    }
+  },
+  {
+    "ingredient": "Arbutin",
+    "max_concentration_percent": 7.0,
+    "product_types": [
+      "Face cream"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "378"
+    }
+  }
+]

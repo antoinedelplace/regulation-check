@@ -36,9 +36,7 @@ def test_classify_id_line_cas_ec() -> None:
 
 
 def test_classify_id_line_prose_with_embedded_cas_returns_none() -> None:
-    line = (
-        "Salt (CAS 71134-97-9) when used as a substance in hair dye products"
-    )
+    line = "Salt (CAS 71134-97-9) when used as a substance in hair dye products"
     assert classify_id_line(line) is None
 
 

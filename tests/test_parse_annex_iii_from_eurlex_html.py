@@ -143,7 +143,17 @@ def test_main_writes_json(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> No
     html = b"<html><body><table></table></body></html>"
     tiny_table = pd.DataFrame(
         [
-            ["3", "Group", "Oxalic acid", "144-62-7", "205-634-3", "Hair", "5 %", "", ""],
+            [
+                "3",
+                "Group",
+                "Oxalic acid",
+                "144-62-7",
+                "205-634-3",
+                "Hair",
+                "5 %",
+                "",
+                "",
+            ],
         ]
     )
 

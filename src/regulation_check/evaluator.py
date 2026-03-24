@@ -205,7 +205,9 @@ def evaluate_restrictions_for_ingredient(
     return combined restrictions.
     """
     applicable_rules = [
-        rule for rule in rules if not rule.product_types or product_type in rule.product_types
+        rule
+        for rule in rules
+        if not rule.product_types or product_type in rule.product_types
     ]
 
     candidate_rules = applicable_rules if applicable_rules else rules

@@ -84,7 +84,10 @@ def extract_percent_pairs(col6: str, col7: str) -> list[tuple[float | None, str]
     if len(roman_matches) >= 2:
         out: list[tuple[float | None, str]] = []
         for m in roman_matches:
-            label, num = m.group(1).lower(), m.group(2)
+            # Regex group(1) is the Roman label; group(2) is the numeric part.
+            # The Roman label itself isn't needed here, since we use m.group(1)
+            # again when building the segment-matching pattern.
+            _, num = m.group(1).lower(), m.group(2)
             try:
                 pct = parse_float_eu(num)
             except ValueError:

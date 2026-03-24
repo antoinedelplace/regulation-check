@@ -1,0 +1,12 @@
+[
+    {
+      "ingredient": "Acetone Oxime",
+      "status": "Prohibited",
+      "placed_on_market_until": "2026-07-31",
+      "available_until": "2028-07-31",
+      "regulatory_reference": {
+        "annex": "Annex II",
+        "entry": "1754"
+      }
+    }
+  ]

@@ -1,0 +1,13 @@
+[
+    {
+      "ingredient": "Hydrogen Peroxide",
+      "max_concentration_percent": 6,
+      "product_types": [
+        "Hair product"
+      ],
+      "regulatory_reference": {
+        "annex": "Annex III",
+        "entry": "12"
+      }
+    }
+  ]

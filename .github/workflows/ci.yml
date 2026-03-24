@@ -1,0 +1,66 @@
+name: CI
+
+on:
+
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+
+env:
+
+  PYTHONUNBUFFERED: "1"
+
+
+jobs:
+
+  ci:
+
+    name: Run CI via Nox
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # -----------------------------------------
+      # Checkout repository
+      # -----------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------------------
+      # Install Python (latest stable)
+      # -----------------------------------------
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # -----------------------------------------
+      # Install uv
+      # -----------------------------------------
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      # -----------------------------------------
+      # Install dependencies
+      # -----------------------------------------
+
+      - name: Install dependencies
+        run: uv sync --group dev
+
+      # -----------------------------------------
+      # Run CI pipeline
+      # -----------------------------------------
+
+      - name: Run Nox CI session
+        run: uv run nox -s ci

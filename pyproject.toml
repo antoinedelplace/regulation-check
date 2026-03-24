@@ -1,0 +1,136 @@
+[project]
+name = "regulation-check"
+version = "0.1.0"
+description = "Deterministic rule engine for EU cosmetics regulatory compliance"
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    { name = "Your Name" }
+]
+
+license = { text = "MIT" }
+
+dependencies = []
+
+# --------------------------------------------------
+# Dependency groups
+# --------------------------------------------------
+
+[dependency-groups]
+
+dev = [
+    "pytest",
+    "pytest-cov",
+    "coverage",
+    "ruff",
+    "pre-commit",
+    "nox",
+]
+
+# --------------------------------------------------
+# Build system
+# --------------------------------------------------
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/regulation_check"]
+
+# --------------------------------------------------
+# Pytest
+# --------------------------------------------------
+
+[tool.pytest.ini_options]
+
+minversion = "7.0"
+
+addopts = [
+    "--strict-markers",
+    "--disable-warnings",
+    "--cov=src",
+    "--cov-report=term-missing",
+    "--cov-report=html",
+]
+
+testpaths = [
+    "tests"
+]
+
+pythonpath = [
+    "src"
+]
+
+# --------------------------------------------------
+# Coverage
+# --------------------------------------------------
+
+[tool.coverage.run]
+
+branch = true
+
+source = [
+    "src"
+]
+
+omit = [
+    "tests/*",
+    "noxfile.py",
+]
+
+[tool.coverage.report]
+
+show_missing = true
+
+skip_empty = true
+
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+]
+
+# --------------------------------------------------
+# Ruff
+# --------------------------------------------------
+
+[tool.ruff]
+
+target-version = "py312"
+
+line-length = 88
+
+src = [
+    "src",
+    "tests"
+]
+
+exclude = [
+    ".git",
+    ".venv",
+    "__pycache__",
+]
+
+[tool.ruff.lint]
+
+select = [
+    "E",
+    "F",
+    "I",
+    "UP",
+    "B",
+]
+
+ignore = [
+    "E501"
+]
+
+[tool.ruff.format]
+
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"
+
+[project.scripts]
+regulation-check = "regulation_check.main:main"

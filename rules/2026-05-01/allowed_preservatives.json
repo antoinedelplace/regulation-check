@@ -1,0 +1,40 @@
+[
+  {
+    "ingredient": "Biphenyl-2-ol",
+    "aliases": [
+      "2-phenylphenol",
+      "2-hydroxybiphenyl",
+      "o-Phenylphenol"
+    ],
+    "max_concentration_percent_rinse_off": 0.2,
+    "max_concentration_percent_leave_on": 0.15,
+    "combined_limit_note": "When o-Phenylphenol and Sodium o-Phenylphenate are used together, the combined concentration (as phenol) shall not exceed 0.2% in rinse-off and 0.15% in leave-on products.",
+    "additional_conditions": [
+      "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.",
+      "Not to be used in oral products.",
+      "Avoid contact with eyes."
+    ],
+    "regulatory_reference": {
+      "annex": "Annex V",
+      "entry": "7"
+    }
+  },
+  {
+    "ingredient": "Sodium 2-biphenylate",
+    "aliases": [
+      "Sodium o-Phenylphenate"
+    ],
+    "max_concentration_percent_rinse_off": 0.2,
+    "max_concentration_percent_leave_on": 0.15,
+    "combined_limit_note": "When o-Phenylphenol and Sodium o-Phenylphenate are used together, the combined concentration (as phenol) shall not exceed 0.2% in rinse-off and 0.15% in leave-on products.",
+    "additional_conditions": [
+      "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.",
+      "Not to be used in oral products.",
+      "Avoid contact with eyes."
+    ],
+    "regulatory_reference": {
+      "annex": "Annex V",
+      "entry": "7"
+    }
+  }
+]

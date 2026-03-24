@@ -1,13 +1,80 @@
 [
-    {
-      "ingredient": "Hydrogen Peroxide",
-      "max_concentration_percent": 6,
-      "product_types": [
-        "Hair product"
-      ],
-      "regulatory_reference": {
-        "annex": "Annex III",
-        "entry": "12"
-      }
+  {
+    "ingredient": "Silver (powder)",
+    "max_concentration_percent": 0.05,
+    "product_types": [
+      "Toothpaste",
+      "Mouthwash"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "379"
     }
-  ]
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 2.0,
+    "product_types": [
+      "Hydroalcoholic-based fragrances"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 0.5,
+    "product_types": [
+      "All rinse-off products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 0.3,
+    "product_types": [
+      "All leave-on products"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "Toothpaste"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 0.001,
+    "product_types": [
+      "Mouthwash"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  },
+  {
+    "ingredient": "Hexyl 2-hydroxybenzoate",
+    "max_concentration_percent": 0.1,
+    "product_types": [
+      "Products intended for children below 3 years of age"
+    ],
+    "regulatory_reference": {
+      "annex": "Annex III",
+      "entry": "380"
+    }
+  }
+]

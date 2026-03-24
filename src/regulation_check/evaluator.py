@@ -54,18 +54,12 @@ def normalize(text: str) -> str:
 # --------------------------------------------------
 
 
-def find_matching_rule(ingredient: str, rules: list[Rule]) -> Rule | None:
+def find_matching_rules(ingredient: str, rules: list[Rule]) -> list[Rule]:
     """
-    Find rule matching ingredient name.
+    Find all rules matching ingredient name.
     """
-
     target = normalize(ingredient)
-
-    for rule in rules:
-        if rule.ingredient == target:
-            return rule
-
-    return None
+    return [rule for rule in rules if rule.ingredient == target]
 
 
 # --------------------------------------------------
@@ -200,6 +194,41 @@ def evaluate_restriction(
     )
 
 
+def evaluate_restrictions_for_ingredient(
+    rules: list[Rule], concentration_percent: float, product_type: str
+) -> ComplianceResult:
+    """
+    Evaluate one or many restricted rules for an ingredient.
+
+    If at least one rule is explicitly applicable to the product type,
+    evaluate only those applicable rules. Otherwise evaluate all rules and
+    return combined restrictions.
+    """
+    applicable_rules = [
+        rule for rule in rules if not rule.product_types or product_type in rule.product_types
+    ]
+
+    candidate_rules = applicable_rules if applicable_rules else rules
+
+    evaluations = [
+        evaluate_restriction(rule, concentration_percent, product_type)
+        for rule in candidate_rules
+    ]
+
+    # If any candidate allows usage with conditions, ingredient is allowed.
+    for result in evaluations:
+        if result.status == STATUS_ALLOWED_WITH_CONDITIONS:
+            return result
+
+    merged_conditions: list[str] = []
+    for result in evaluations:
+        for condition in result.conditions:
+            if condition not in merged_conditions:
+                merged_conditions.append(condition)
+
+    return build_restricted_result(candidate_rules[0], merged_conditions)
+
+
 # --------------------------------------------------
 # Main Evaluation Entry
 # --------------------------------------------------
@@ -228,9 +257,10 @@ def evaluate_compliance(
     # Check prohibited
     # ------------------------------------------
 
-    prohibited_rule = find_matching_rule(ingredient, prohibited_rules)
+    prohibited_matches = find_matching_rules(ingredient, prohibited_rules)
 
-    if prohibited_rule:
+    if prohibited_matches:
+        prohibited_rule = prohibited_matches[0]
         if is_within_transitional_period(prohibited_rule, evaluation_date):
             return build_transitional_result(prohibited_rule)
 
@@ -240,11 +270,10 @@ def evaluate_compliance(
     # Check restricted
     # ------------------------------------------
 
-    restricted_rule = find_matching_rule(ingredient, restricted_rules)
-
-    if restricted_rule:
-        return evaluate_restriction(
-            restricted_rule, concentration_percent, product_type
+    restricted_matches = find_matching_rules(ingredient, restricted_rules)
+    if restricted_matches:
+        return evaluate_restrictions_for_ingredient(
+            restricted_matches, concentration_percent, product_type
         )
 
     # ------------------------------------------

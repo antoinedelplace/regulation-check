@@ -1,12 +1,191 @@
 [
-    {
-      "ingredient": "Acetone Oxime",
-      "status": "Prohibited",
-      "placed_on_market_until": "2026-07-31",
-      "available_until": "2028-07-31",
-      "regulatory_reference": {
-        "annex": "Annex II",
-        "entry": "1754"
-      }
+  {
+    "ingredient": "Perboric acid (H3BO2(O2)), monosodium salt trihydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
     }
-  ]
+  },
+  {
+    "ingredient": "Perboric acid, sodium salt, tetrahydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Perboric acid (HBO(O2)), sodium salt, tetrahydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Sodium peroxoborate, hexahydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Sodium perborate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Sodium peroxometaborate; sodium peroxoborate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Perboric acid, sodium salt",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Perboric acid, sodium salt, monohydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Perboric acid (HBO(O2)), sodium salt, monohydrate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Trimethyl borate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1397"
+    }
+  },
+  {
+    "ingredient": "Silver (nano)",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1727"
+    }
+  },
+  {
+    "ingredient": "Silver (massive)",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1727"
+    }
+  },
+  {
+    "ingredient": "Multi-walled Carbon Tubes (synthetic graphite in tubular shape)",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1752"
+    }
+  },
+  {
+    "ingredient": "reaction mass of 1,3-dioxan-5-ol and 1,3-dioxolan-4-ylmethanol",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1753"
+    }
+  },
+  {
+    "ingredient": "Acetone Oxime",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1754"
+    }
+  },
+  {
+    "ingredient": "2-(dimethylamino)-2-[(4-methylphenyl)methyl]-1-[4-(morpholin-4-yl)phenyl]butan-1-one",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1755"
+    }
+  },
+  {
+    "ingredient": "2,3-epoxypropyl neodecanoate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1756"
+    }
+  },
+  {
+    "ingredient": "Benthiavalicarb-isopropyl",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1757"
+    }
+  },
+  {
+    "ingredient": "7-oxabicyclo[4.1.0]hept-3-ylmethyl 7-oxabicyclo[4.1.0]heptane-3-carboxylate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1758"
+    }
+  },
+  {
+    "ingredient": "Sodium 3-(allyloxy)-2-hydroxypropanesulphonate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1759"
+    }
+  },
+  {
+    "ingredient": "1,4-dichloro-2-nitrobenzene",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1760"
+    }
+  },
+  {
+    "ingredient": "Fenpropidin",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1761"
+    }
+  },
+  {
+    "ingredient": "N,N'-methylenediacrylamide",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1762"
+    }
+  },
+  {
+    "ingredient": "tert-butyl 2-ethylperoxyhexanoate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1763"
+    }
+  },
+  {
+    "ingredient": "Trimethyl borate",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1764"
+    }
+  },
+  {
+    "ingredient": "S-metolachlor",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1765"
+    }
+  },
+  {
+    "ingredient": "Pyraclostrobin",
+    "regulatory_reference": {
+      "annex": "Annex II",
+      "entry": "1766"
+    }
+  }
+]

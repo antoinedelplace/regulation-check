@@ -154,9 +154,7 @@ def main():
                 sys.exit(1)
 
         # If provided, the JSON input should drive the evaluation date.
-        evaluation_date = validate_date(
-            data.get("evaluation_date") or evaluation_date
-        )
+        evaluation_date = validate_date(data.get("evaluation_date") or evaluation_date)
 
         ingredient = data["ingredient"]
         concentration = data["concentration_percent"]

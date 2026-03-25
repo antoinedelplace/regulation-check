@@ -40,7 +40,10 @@ STATUS_UNKNOWN = "Unknown"
 # --------------------------------------------------
 INGREDIENT_MATCH_THRESHOLD = 90
 INGREDIENT_MATCH_MARGIN = 5
-PRODUCT_TYPE_MATCH_THRESHOLD = 80
+# Product-type labels vary a lot across inputs and rule datasets.
+# We use a lower threshold, but also normalize away generic "product(s)"
+# tokens to reduce false positives (e.g., "Hair product" vs "Oral products").
+PRODUCT_TYPE_MATCH_THRESHOLD = 60
 
 
 # --------------------------------------------------
@@ -77,7 +80,10 @@ def normalize_for_fuzzy(text: str) -> str:
     text = text.replace("(", " ").replace(")", " ")
     text = re.sub(r"[^a-z0-9%]+", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
-    return text
+    # Drop generic product tokens that create false positives.
+    # Example: "Hair product" and "Oral products" look similar due to "product(s)".
+    tokens = [t for t in text.split() if t not in {"product", "products"}]
+    return " ".join(tokens).strip()
 
 
 def fuzzy_best_score(query: str, candidates: list[str]) -> int:

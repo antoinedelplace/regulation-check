@@ -153,6 +153,11 @@ def main():
                 logger.error("Missing required field in input file: %s", field)
                 sys.exit(1)
 
+        # If provided, the JSON input should drive the evaluation date.
+        evaluation_date = validate_date(
+            data.get("evaluation_date") or evaluation_date
+        )
+
         ingredient = data["ingredient"]
         concentration = data["concentration_percent"]
         product_type = data["product_type"]

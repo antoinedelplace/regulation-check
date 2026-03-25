@@ -11,7 +11,9 @@ authors = [
 
 license = { text = "MIT" }
 
-dependencies = []
+dependencies = [
+    "rapidfuzz",
+]
 
 # --------------------------------------------------
 # Dependency groups
